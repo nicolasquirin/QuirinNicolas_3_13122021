@@ -1,2 +1,2 @@
 # QuirinNicolas_3_13122021
-Openclassrooms project n°4 / OhMyFood
+Openclassrooms_project_n°3_OhMyFood_website
